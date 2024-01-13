@@ -9,7 +9,14 @@ Simple Boolean Retrieval Project using python (Bahasa Indonesia)
 - Filtering (Custom Words : Bahasa Indonesia)
 - Stemming (Sastrawi Library: Bahasa Indonesia)
 
-# Install All of the Python Libraries
+# How To
+- Download All of the Project
+- Configure the python interpreter for the py folder
+- Install All Of The Libraries, all you need is on the top of python file
+- Change the directory path(ListOfFiles) with yours
+- Run
+
+*My English is not that Good xDD
 
 # User-Interface
 ![image](https://github.com/nuridho/Boolean-Retrieval-Python-SimpleProject/assets/91199758/ae3a3e55-08b5-41cd-b077-d2bbf37d96f0)
