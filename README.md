@@ -1,15 +1,15 @@
 # Boolean-Retrieval-Python-SimpleProject
 Simple Boolean Retrieval Project using python (Bahasa Indonesia)
 
-# 4 Operators (AND, OR, NOT, XOR)
+## 4 Operators (AND, OR, NOT, XOR)
 
-# Include Simple Pre-Processing
+## Include Simple Pre-Processing
 - Case Folding
 - Tokenizing
 - Filtering (Custom Words : Bahasa Indonesia)
 - Stemming (Sastrawi Library: Bahasa Indonesia)
 
-# How To
+## How To
 - Download All of the Project
 - Configure the python interpreter for the py folder
 - Install All Of The Libraries, all you need is on the top of python file
